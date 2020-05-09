@@ -14,7 +14,7 @@
 
 def speak_to_grandma(words)
   
-  if words == 
+  if words == "I LOVE YOU GRANDMA!"
     
   elsif
     
