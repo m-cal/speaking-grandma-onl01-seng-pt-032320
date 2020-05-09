@@ -13,8 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(words)
-  
-  if words == "I LOVE YOU GRANDMA!"
+  if words.toU
+  elsif words == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif
     
